@@ -1,3 +1,3 @@
-print("Vasya molodec")
+import numpy as np
 
-print("Hello Ilya!")
+print(np.sqrt(2))
